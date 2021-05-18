@@ -6,11 +6,11 @@ gem "sinatra", "~> 2.0.2"
 gem "thin", "~> 1.7.0"
 gem "data_mapper", '~> 1.2.0'
 gem "dm-postgres-adapter", '~> 1.2.0'
-gem "ruby-saml", "~> 1.6.2"
+gem "ruby-saml", "~> 1.0.0"
 gem "chronic", '~> 0.10.2'
 gem "savon", "~> 2.11.1"
 gem "rubyzip", "~> 1.3.0"
-gem "nokogiri", "~> 1.11.0.0"
+gem "nokogiri", "~> 1.11.4.0"
 gem "activesupport", ">= 5.2.4.3"
 gem "redis", '~> 3.3.0'
 gem "json", "~> 2.3.0"
